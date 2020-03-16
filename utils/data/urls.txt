@@ -1,0 +1,1 @@
+https://github.com/fponticelli/thx.core [] Super-charged standard library for Haxe. http://thx-lib.org

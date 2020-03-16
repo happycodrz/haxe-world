@@ -1,0 +1,1 @@
+https://github.com/haxetink/tink_validation [] Runtime type check and value extractor for dynamic objects
