@@ -1,0 +1,2 @@
+https://github.com/elsassph/haxe-react-mmvc [] Demonstrates Haxe React with Dependency Injection and Live-reload
+https://github.com/massiveinteractive/haxe-react [] React JS applications development using the Haxe language

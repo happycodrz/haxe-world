@@ -1,2 +1,3 @@
 https://github.com/fponticelli/thx.core [] Super-charged standard library for Haxe. http://thx-lib.org
 https://github.com/lix-pm/haxelib-core [] haxelib-core
+https://github.com/RealyUniqueName/DateTime [] Date/time (+math, +intervals) implementation for Haxe http://doc.stablex.ru/datetime/index.…

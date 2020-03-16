@@ -10,6 +10,7 @@
 
 ### By Name
 <!-- PROJECTS_LIST -->
+- [HaxeFoundation/crypto](https://github.com/HaxeFoundation/crypto) - Cross platform cryptographic functions for Haxe <br/> ( 2019-10-25 / 117 commits / 19 stars )
 - [why-haxe/why-archive](https://github.com/why-haxe/why-archive) - Streaming archives (tar, zip, tgz, etc) <br/> ( 2019-03-05 / 32 commits / 4 stars )
 - [https://gitlab.com/haath/astar](https://gitlab.com/haath/astar) - --- <br/> ( --- / 0 commits / 0 stars )
 <!-- /PROJECTS_LIST -->
@@ -18,6 +19,7 @@
 
 ### By CommitCount
 <!-- COMMITCOUNT_LIST -->
+- [HaxeFoundation/crypto](https://github.com/HaxeFoundation/crypto) - Cross platform cryptographic functions for Haxe <br/> (117 commits / 19 stars / 2019-10-25 )
 - [why-haxe/why-archive](https://github.com/why-haxe/why-archive) - Streaming archives (tar, zip, tgz, etc) <br/> (32 commits / 4 stars / 2019-03-05 )
 - [https://gitlab.com/haath/astar](https://gitlab.com/haath/astar) - --- <br/> (0 commits / 0 stars / --- )
 <!-- /COMMITCOUNT_LIST -->
@@ -25,6 +27,7 @@
 
 ### By Activity
 <!-- ACTIVITY_LIST -->
+- [HaxeFoundation/crypto](https://github.com/HaxeFoundation/crypto) - Cross platform cryptographic functions for Haxe <br/> ( 2019-10-25 / 117 commits / 19 stars )
 - [why-haxe/why-archive](https://github.com/why-haxe/why-archive) - Streaming archives (tar, zip, tgz, etc) <br/> ( 2019-03-05 / 32 commits / 4 stars )
 - [https://gitlab.com/haath/astar](https://gitlab.com/haath/astar) - --- <br/> ( --- / 0 commits / 0 stars )
 <!-- /ACTIVITY_LIST -->
@@ -33,6 +36,7 @@
 
 ### By Popularity
 <!-- POPULARITY_LIST -->
+- [HaxeFoundation/crypto](https://github.com/HaxeFoundation/crypto) - Cross platform cryptographic functions for Haxe <br/> (19 stars / 2019-10-25 / 117 commits )
 - [why-haxe/why-archive](https://github.com/why-haxe/why-archive) - Streaming archives (tar, zip, tgz, etc) <br/> (4 stars / 2019-03-05 / 32 commits )
 - [https://gitlab.com/haath/astar](https://gitlab.com/haath/astar) - --- <br/> (0 stars / --- / 0 commits )
 <!-- /POPULARITY_LIST -->

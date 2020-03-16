@@ -10,6 +10,7 @@
 
 ### By Name
 <!-- PROJECTS_LIST -->
+- [HaxeFoundation/haxelib](https://github.com/HaxeFoundation/haxelib) - The Haxe library manager <br/> ( 2019-11-11 / 1146 commits / 109 stars )
 - [lix-pm/haxeshim](https://github.com/lix-pm/haxeshim) -  <br/> ( 2020-01-19 / 231 commits / 15 stars )
 - [lix-pm/lix.client](https://github.com/lix-pm/lix.client) - A dependable package manager for your Haxe projects <br/> ( 2020-02-13 / 369 commits / 62 stars )
 <!-- /PROJECTS_LIST -->
@@ -18,6 +19,7 @@
 
 ### By CommitCount
 <!-- COMMITCOUNT_LIST -->
+- [HaxeFoundation/haxelib](https://github.com/HaxeFoundation/haxelib) - The Haxe library manager <br/> (1146 commits / 109 stars / 2019-11-11 )
 - [lix-pm/lix.client](https://github.com/lix-pm/lix.client) - A dependable package manager for your Haxe projects <br/> (369 commits / 62 stars / 2020-02-13 )
 - [lix-pm/haxeshim](https://github.com/lix-pm/haxeshim) -  <br/> (231 commits / 15 stars / 2020-01-19 )
 <!-- /COMMITCOUNT_LIST -->
@@ -27,12 +29,14 @@
 <!-- ACTIVITY_LIST -->
 - [lix-pm/lix.client](https://github.com/lix-pm/lix.client) - A dependable package manager for your Haxe projects <br/> ( 2020-02-13 / 369 commits / 62 stars )
 - [lix-pm/haxeshim](https://github.com/lix-pm/haxeshim) -  <br/> ( 2020-01-19 / 231 commits / 15 stars )
+- [HaxeFoundation/haxelib](https://github.com/HaxeFoundation/haxelib) - The Haxe library manager <br/> ( 2019-11-11 / 1146 commits / 109 stars )
 <!-- /ACTIVITY_LIST -->
 
 [⬆ Navigation](#navigation)
 
 ### By Popularity
 <!-- POPULARITY_LIST -->
+- [HaxeFoundation/haxelib](https://github.com/HaxeFoundation/haxelib) - The Haxe library manager <br/> (109 stars / 2019-11-11 / 1146 commits )
 - [lix-pm/lix.client](https://github.com/lix-pm/lix.client) - A dependable package manager for your Haxe projects <br/> (62 stars / 2020-02-13 / 369 commits )
 - [lix-pm/haxeshim](https://github.com/lix-pm/haxeshim) -  <br/> (15 stars / 2020-01-19 / 231 commits )
 <!-- /POPULARITY_LIST -->

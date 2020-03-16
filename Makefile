@@ -1,6 +1,10 @@
 update_algos:
 	export UPDATER_ROOT=$$(pwd)/algos && cd ex && mix update
 
+update_cli:
+	export UPDATER_ROOT=$$(pwd)/cli && cd ex && mix update
+
+
 update_config:
 	export UPDATER_ROOT=$$(pwd)/config && cd ex && mix update
 
@@ -42,3 +46,6 @@ update_terminal:
 
 update_utils:
 	export UPDATER_ROOT=$$(pwd)/utils && cd ex && mix update
+
+update_web:
+	export UPDATER_ROOT=$$(pwd)/web && cd ex && mix update

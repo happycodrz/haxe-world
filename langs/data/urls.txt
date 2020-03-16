@@ -1,1 +1,4 @@
+https://github.com/HaxeCheckstyle/haxe-formatter [] Haxe code formatter based on tokentree
+https://github.com/HaxeCheckstyle/tokentree [] TokenTree library used by haxe-checkstyle
 https://github.com/HaxeFoundation/hscript [] Parser and interpreter for Haxe expressions
+https://github.com/haxetink/tink_parse [] Simple, fast, macro free parser library.

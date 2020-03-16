@@ -1,4 +1,5 @@
 https://github.com/DoclerLabs/hexMachina [] Releases, issues, documentation, website of hexMachina, framework written in Haxe http://hexmachina.org
+https://github.com/jdonaldson/promhx [] A promise and functional reactive programming library for Haxe
 https://github.com/massiveinteractive/mmvc [] A Haxe port of the ActionScript 3 RobotLegs MVC framework with signals and Haxe refinements. Supports AVM1, AVM2, JavaScript, Neko and C++. http://open.massiveinteractive.com
 https://github.com/nadako/Ash-Haxe [] Port of Ash entity framework to Haxe
 https://github.com/nadako/hxmustache [] Minimal templating with {{mustaches}} in Haxe http://mustache.github.com/

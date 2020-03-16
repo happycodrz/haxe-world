@@ -1,2 +1,3 @@
+https://github.com/HaxeFoundation/haxelib [] The Haxe library manager https://lib.haxe.org/
 https://github.com/lix-pm/haxeshim [] Haxe Shim - a simple wrapper around Haxe
 https://github.com/lix-pm/lix.client [] A dependable package manager for your Haxe projects
