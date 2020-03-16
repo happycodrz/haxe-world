@@ -11,7 +11,7 @@ update_fun:
 	export UPDATER_ROOT=$$(pwd)/fun && cd ex && mix update
 
 update_langs:
-	export UPDATER_ROOT=$$(pwd)/libs && cd ex && mix update
+	export UPDATER_ROOT=$$(pwd)/langs && cd ex && mix update
 
 update_libs:
 	export UPDATER_ROOT=$$(pwd)/libs && cd ex && mix update

@@ -53,8 +53,8 @@
 - [DoclerLabs/hexMachina](https://github.com/DoclerLabs/hexMachina) - Releases, issues, documentation, website of hexMachina, framework written in Haxe <br/> (41 stars / 2019-01-31 / 194 commits )
 - [nadako/hxmustache](https://github.com/nadako/hxmustache) - Minimal templating with {{mustaches}} in Haxe http://mustache.github.com/ <br/> (32 stars / 2020-02-23 / 78 commits )
 - [nadako/hxspine](https://github.com/nadako/hxspine) - Generic Spine run-time for Haxe <br/> (12 stars / 2019-12-20 / 36 commits )
-- [why-haxe/why-config](https://github.com/why-haxe/why-config) -  <br/> (0 stars / 2019-06-18 / 3 commits )
 - [why-haxe/why-pubsub](https://github.com/why-haxe/why-pubsub) - PubSub abstraction <br/> (0 stars / 2018-11-22 / 11 commits )
+- [why-haxe/why-config](https://github.com/why-haxe/why-config) -  <br/> (0 stars / 2019-06-18 / 3 commits )
 <!-- /POPULARITY_LIST -->
 
 [⬆ Navigation](#navigation)
