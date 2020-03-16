@@ -1,14 +1,13 @@
 # Overview for Haxe Ecosystem
 
 - [Algorithms / Datastructures](algos/Readme.md)
-- [Configuration](config/Readme.md)
+- [CLI](cli/Readme.md)
+- [IDE/Editors](editors/Readme.md)
 - [Encode/Decode Formats (JSON / XML / etc)](formats/Readme.md)
-- [Fun packages](fun/Readme.md)
 - [DSLs/Languages / Parsers](langs/Readme.md)
 - [Libs](libs/Readme.md)
 - [Macro-heavy packages](macros/Readme.md)
-- [Quality](quality/Readme.md)
-- [RPC](rpc/Readme.md)
+- [Schema / Validations](schema/Readme.md)
 - [Testing](testing/Readme.md)
-- [Terminal / TUI / CLI](terminal/Readme.md)
 - [Utils collections](utils/Readme.md)
+- [Web / Browsers / JS](web/Readme.md)
