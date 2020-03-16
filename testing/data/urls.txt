@@ -1,2 +1,7 @@
+https://github.com/andyli/HaxeCI [] An example of using CI for Haxe projects.
+https://github.com/doclerlabs/hexInject [] Dependency injector with very fast injections written in Haxe http://hexmachina.org
 https://github.com/doclerlabs/hexUnit [] OOP Unit testing framework written in Haxe.
+https://github.com/haxe-utest/utest [] cross-platform unit testing system for Haxe
+https://github.com/haxetink/tink_testrunner [] Universal Test Runner https://haxetink.github.io/tink_testr…
 https://github.com/haxetink/tink_unittest [] Unit Testing https://haxetink.github.io/tink_unittest
+https://github.com/massiveinteractive/minject [] A Haxe port of the ActionScript 3 SwiftSuspenders IOC library with efficient macro enhanced type reflection. Supports AVM1, AVM2, JavaScript, Neko and C++.

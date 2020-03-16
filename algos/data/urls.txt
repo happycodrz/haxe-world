@@ -1,1 +1,2 @@
 https://github.com/why-haxe/why-archive [] Streaming archives (tar, zip, tgz, etc)
+https://gitlab.com/haath/astar [] Versatile framework-agnostic A-star solver in Haxe.
