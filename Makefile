@@ -22,6 +22,9 @@ update_macros:
 update_schema:
 	export UPDATER_ROOT=$$(pwd)/schema && cd ex && mix update
 
+update_system:
+	export UPDATER_ROOT=$$(pwd)/system && cd ex && mix update
+
 update_quality:
 	export UPDATER_ROOT=$$(pwd)/quality && cd ex && mix update
 
