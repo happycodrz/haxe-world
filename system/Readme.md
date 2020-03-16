@@ -10,6 +10,7 @@
 
 ### By Name
 <!-- PROJECTS_LIST -->
+- [lix-pm/haxeshim](https://github.com/lix-pm/haxeshim) -  <br/> ( 2020-01-19 / 231 commits / 15 stars )
 - [lix-pm/lix.client](https://github.com/lix-pm/lix.client) - A dependable package manager for your Haxe projects <br/> ( 2020-02-13 / 369 commits / 62 stars )
 <!-- /PROJECTS_LIST -->
 
@@ -18,12 +19,14 @@
 ### By CommitCount
 <!-- COMMITCOUNT_LIST -->
 - [lix-pm/lix.client](https://github.com/lix-pm/lix.client) - A dependable package manager for your Haxe projects <br/> (369 commits / 62 stars / 2020-02-13 )
+- [lix-pm/haxeshim](https://github.com/lix-pm/haxeshim) -  <br/> (231 commits / 15 stars / 2020-01-19 )
 <!-- /COMMITCOUNT_LIST -->
 [⬆ Navigation](#navigation)
 
 ### By Activity
 <!-- ACTIVITY_LIST -->
 - [lix-pm/lix.client](https://github.com/lix-pm/lix.client) - A dependable package manager for your Haxe projects <br/> ( 2020-02-13 / 369 commits / 62 stars )
+- [lix-pm/haxeshim](https://github.com/lix-pm/haxeshim) -  <br/> ( 2020-01-19 / 231 commits / 15 stars )
 <!-- /ACTIVITY_LIST -->
 
 [⬆ Navigation](#navigation)
@@ -31,6 +34,7 @@
 ### By Popularity
 <!-- POPULARITY_LIST -->
 - [lix-pm/lix.client](https://github.com/lix-pm/lix.client) - A dependable package manager for your Haxe projects <br/> (62 stars / 2020-02-13 / 369 commits )
+- [lix-pm/haxeshim](https://github.com/lix-pm/haxeshim) -  <br/> (15 stars / 2020-01-19 / 231 commits )
 <!-- /POPULARITY_LIST -->
 
 [⬆ Navigation](#navigation)

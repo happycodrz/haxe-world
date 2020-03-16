@@ -1,1 +1,2 @@
+https://github.com/lix-pm/haxeshim [] Haxe Shim - a simple wrapper around Haxe
 https://github.com/lix-pm/lix.client [] A dependable package manager for your Haxe projects

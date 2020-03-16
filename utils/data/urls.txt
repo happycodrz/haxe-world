@@ -1,1 +1,2 @@
 https://github.com/fponticelli/thx.core [] Super-charged standard library for Haxe. http://thx-lib.org
+https://github.com/lix-pm/haxelib-core [] haxelib-core

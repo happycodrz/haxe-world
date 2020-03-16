@@ -4,6 +4,9 @@ update_algos:
 update_config:
 	export UPDATER_ROOT=$$(pwd)/config && cd ex && mix update
 
+update_editors:
+	export UPDATER_ROOT=$$(pwd)/editors && cd ex && mix update
+
 update_formats:
 	export UPDATER_ROOT=$$(pwd)/formats && cd ex && mix update
 

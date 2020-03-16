@@ -1,0 +1,1 @@
+https://github.com/lix-pm/lix.vscode [] Visual Studio Code extension for lix
