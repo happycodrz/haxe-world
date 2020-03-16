@@ -10,6 +10,9 @@ update_formats:
 update_fun:
 	export UPDATER_ROOT=$$(pwd)/fun && cd ex && mix update
 
+update_libs:
+	export UPDATER_ROOT=$$(pwd)/libs && cd ex && mix update
+
 update_schema:
 	export UPDATER_ROOT=$$(pwd)/schema && cd ex && mix update
 
