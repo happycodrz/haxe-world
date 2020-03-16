@@ -1,3 +1,8 @@
 https://github.com/HaxeFoundation/crypto [] Cross platform cryptographic functions for Haxe
+https://github.com/kevinresol/bigint [] Big Integer for Haxe
+https://github.com/kevinresol/deep_equal [] Helper for Deep Comparison
+https://github.com/kevinresol/hashids [] Haxe implementation of hashids
+https://github.com/RealyUniqueName/Iterators [] A collection of useful iterators for Haxe
+https://github.com/snowkit/differ [] A separation axis theorem collision library for Haxe.
 https://github.com/why-haxe/why-archive [] Streaming archives (tar, zip, tgz, etc)
 https://gitlab.com/haath/astar [] Versatile framework-agnostic A-star solver in Haxe.

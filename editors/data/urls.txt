@@ -1,1 +1,7 @@
 https://github.com/lix-pm/lix.vscode [] Visual Studio Code extension for lix
+https://github.com/vshaxe/codedox [] Extension for Visual Studio Code that helps Haxe developers document their code.
+https://github.com/vshaxe/eval-debugger [] Visual Studio Code Debugger for Haxe Macros and --interp scripts
+https://github.com/vshaxe/hashlink-debugger [] Visual Studio Code Debugger for Haxe/HashLink applications https://hashlink.haxe.org/
+https://github.com/vshaxe/haxe-test-adapter [] Haxe Test Explorer for Visual Studio Code
+https://github.com/vshaxe/vscode-terminator [] Hasta la vista, task.
+https://github.com/vshaxe/vshaxe-debug-tools [] Internal debugging tools for the Haxe VSCode Extension

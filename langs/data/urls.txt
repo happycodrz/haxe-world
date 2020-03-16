@@ -1,4 +1,9 @@
+https://github.com/benmerckx/genes [] Generates split ES6 modules and Typescript definitions from Haxe modules.
 https://github.com/HaxeCheckstyle/haxe-formatter [] Haxe code formatter based on tokentree
 https://github.com/HaxeCheckstyle/tokentree [] TokenTree library used by haxe-checkstyle
 https://github.com/HaxeFoundation/hscript [] Parser and interpreter for Haxe expressions
 https://github.com/haxetink/tink_parse [] Simple, fast, macro free parser library.
+https://github.com/kevinresol/craftinginterpreters [] Haxe implementation of Lox http://www.craftinginterpreters.com/
+https://github.com/kevinresol/hxgenjs [] Extensible JS generator for Haxe
+https://github.com/RealyUniqueName/ForceStack [] Pretty callstack / backtrace for all targets of Haxe
+https://github.com/RealyUniqueName/sourcemap [] Source maps support for Haxe

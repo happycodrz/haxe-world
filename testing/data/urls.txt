@@ -5,6 +5,10 @@ https://github.com/haxe-utest/utest [] cross-platform unit testing system for Ha
 https://github.com/HaxeCheckstyle/haxe-checkstyle [] Haxe Checkstyle http://haxecheckstyle.github.io/docs
 https://github.com/haxetink/tink_testrunner [] Universal Test Runner https://haxetink.github.io/tink_testr…
 https://github.com/haxetink/tink_unittest [] Unit Testing https://haxetink.github.io/tink_unittest
+https://github.com/kevinresol/deep_equal [] Helper for Deep Comparison
 https://github.com/lix-pm/travlix [] CI runner for lix
 https://github.com/massiveinteractive/mcover [] A cross platform code coverage framework for Haxe with testing and profiling applications. Supports AVM1, AVM2, JavaScript, C++, PHP and Neko.
 https://github.com/massiveinteractive/minject [] A Haxe port of the ActionScript 3 SwiftSuspenders IOC library with efficient macro enhanced type reflection. Supports AVM1, AVM2, JavaScript, Neko and C++.
+https://github.com/misprintt/mockatoo [] A cross platform mocking framework for Haxe. Supports JavaScript, Flash, C++, PHP and Neko.
+https://github.com/RealyUniqueName/HUnit [] Unit testing framework for Haxe with mocks and stubs.
+https://github.com/triture/apirock [] API testing for Haxe

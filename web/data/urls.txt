@@ -1,2 +1,7 @@
+https://github.com/elsassph/haxe-modular [] Code splitting and hot-reload for Haxe JavaScript applications.
 https://github.com/elsassph/haxe-react-mmvc [] Demonstrates Haxe React with Dependency Injection and Live-reload
 https://github.com/massiveinteractive/haxe-react [] React JS applications development using the Haxe language
+https://github.com/MVCoconut/coconut.data [] Observable Data Layer.
+https://github.com/MVCoconut/coconut.react-core [] Adapter for rendering coconut through react.
+https://github.com/MVCoconut/coconut.ui [] Wow, such reactive view! Much awesome!
+https://github.com/MVCoconut/coconut.vdom [] Coconut rendering through virtual-dom.
