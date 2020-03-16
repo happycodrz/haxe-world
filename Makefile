@@ -13,6 +13,9 @@ update_fun:
 update_libs:
 	export UPDATER_ROOT=$$(pwd)/libs && cd ex && mix update
 
+update_macros:
+	export UPDATER_ROOT=$$(pwd)/macros && cd ex && mix update
+
 update_schema:
 	export UPDATER_ROOT=$$(pwd)/schema && cd ex && mix update
 

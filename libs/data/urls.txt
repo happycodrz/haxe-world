@@ -1,1 +1,3 @@
 https://github.com/DoclerLabs/hexMachina [] Releases, issues, documentation, website of hexMachina, framework written in Haxe http://hexmachina.org
+https://github.com/why-haxe/why-config [] Configuration lib
+https://github.com/why-haxe/why-pubsub [] PubSub abstraction
