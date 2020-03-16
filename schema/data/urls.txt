@@ -2,3 +2,4 @@ https://github.com/haxetink/tink_validation [] Runtime type check and value extr
 https://github.com/kevinresol/turnwing [] Type safe & hackable localization library for Haxe
 https://github.com/nuttycom/thx.json [] A JSON AST for Haxe.
 https://github.com/nuttycom/thx.schema [] A very simple applicative parsing library for haXe dynamic values.
+https://github.com/triture/anonstruct [] anonymous structure validation for haxe

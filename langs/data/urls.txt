@@ -3,6 +3,7 @@ https://github.com/HaxeCheckstyle/haxe-formatter [] Haxe code formatter based on
 https://github.com/HaxeCheckstyle/tokentree [] TokenTree library used by haxe-checkstyle
 https://github.com/HaxeFoundation/hscript [] Parser and interpreter for Haxe expressions
 https://github.com/haxetink/tink_parse [] Simple, fast, macro free parser library.
+https://github.com/haxiomic/dts2hx [] Converts TypeScript declaration files (d.ts) to haxe externs (.hx) via the TypeScript compiler API
 https://github.com/kevinresol/craftinginterpreters [] Haxe implementation of Lox http://www.craftinginterpreters.com/
 https://github.com/kevinresol/hxgenjs [] Extensible JS generator for Haxe
 https://github.com/RealyUniqueName/ForceStack [] Pretty callstack / backtrace for all targets of Haxe
